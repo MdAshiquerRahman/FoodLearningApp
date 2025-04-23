@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Recipe</string>
+    <string name="firebase_database_url" translatable="false">https://videoplayer-f895b-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">726192666775</string>
+    <string name="google_api_key" translatable="false">AIzaSyDEBn9xbgZLzVIlwVCMOPoxBu5otFnrZZg</string>
+    <string name="google_app_id" translatable="false">1:726192666775:android:a7917a8738ddd099a151d2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDEBn9xbgZLzVIlwVCMOPoxBu5otFnrZZg</string>
+    <string name="google_storage_bucket" translatable="false">videoplayer-f895b.firebasestorage.app</string>
+    <string name="project_id" translatable="false">videoplayer-f895b</string>
+    <style name="Theme.Practice" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="Theme.SplashScreen.ComposeSplash" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenIconBackgroundColor">#FFFFFF</item>
+        <item name="postSplashScreenTheme">@style/Theme.SplashScreen</item>
+    </style>
+</resources>
