@@ -1,11 +1,11 @@
 package com.example.practice.viewmodel
 
-
 import android.content.Context
 import android.net.Uri
 import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -16,66 +16,92 @@ import com.example.practice.api.dataclass.login.LoginRequest
 import com.example.practice.api.dataclass.profile.ProfileResponse
 import com.example.practice.api.dataclass.signup.SignUpRequest
 import com.example.practice.repository.SharedPreferencesHelper
-import kotlinx.coroutines.flow.MutableStateFlow
-import kotlinx.coroutines.flow.StateFlow
 import okhttp3.MediaType.Companion.toMediaType
 import okhttp3.MediaType.Companion.toMediaTypeOrNull
 import okhttp3.MultipartBody
 import okhttp3.RequestBody.Companion.toRequestBody
-
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.StateFlow
 
 class AuthViewModel : ViewModel() {
     // State variables
     var token by mutableStateOf<String?>(null)
-//    var userProfile by mutableStateOf<UserProfile?>(null)
     var userPassword by mutableStateOf("pass")
     var errorMessage by mutableStateOf<String?>(null)
     var registrationSuccess by mutableStateOf(false)
     var isLoading by mutableStateOf(false)
-
     var profile by mutableStateOf<ProfileResponse?>(null)
 
     private val _isLoggedIn = MutableStateFlow(false)
     val isLoggedIn: StateFlow<Boolean> = _isLoggedIn
 
-
+    // Helper function to interpret error responses
+    private fun interpretErrorResponse(code: Int): String {
+        return when (code) {
+            400 -> "Invalid input. Please check your entries and try again."
+            401 -> "Incorrect username or password. Please try again."
+            403 -> "Access denied. Please contact support for assistance."
+            404 -> "Resource not found. Please try again."
+            409 -> "Username or email already exists."
+            500 -> "Server error. Please try again later."
+            else -> "An unexpected error occurred. Please try again."
+        }
+    }
 
     fun signUp(username: String, email: String, password1: String, password2: String) {
-        viewModelScope.launch {
+        viewModelScope.launch(Dispatchers.IO) { // Runs in IO thread context
+            if (username.isBlank() || email.isBlank() || password1.isBlank() || password2.isBlank()) {
+                errorMessage = "All fields are required."
+                return@launch
+            }
+            if (password1 != password2) {
+                errorMessage = "Passwords do not match."
+                return@launch
+            }
+
             val request = SignUpRequest(username, email, password1, password2)
             try {
                 val response = AuthRetrofitInstance.api.registerUser(request)
                 if (response.isSuccessful) {
                     registrationSuccess = true
                 } else {
-                    errorMessage = response.errorBody()?.string() ?: "Registration failed"
+                    errorMessage = interpretErrorResponse(response.code())
                 }
             } catch (e: Exception) {
-                errorMessage = e.localizedMessage ?: "An error occurred"
+                errorMessage = "An error occurred: ${e.localizedMessage}"
             }
         }
     }
 
     fun login(username: String, email: String, password: String) {
-        userPassword = password
-        viewModelScope.launch {
+        viewModelScope.launch(Dispatchers.IO) { // Runs in IO thread context
+            if (username.isBlank() || email.isBlank() || password.isBlank()) {
+                errorMessage = "All fields are required."
+                return@launch
+            }
+
             isLoading = true
             try {
-                val response = AuthRetrofitInstance.api.login(LoginRequest(username = username, email = email, password = password))
-                token = response.key
-                val user = AuthRetrofitInstance.api.getUserInfo("Token $token")
-
-                profile = user
-                errorMessage = null
+                val response = AuthRetrofitInstance.api.login(
+                    LoginRequest(username = username, email = email, password = password)
+                )
+                if (response.isSuccessful) {
+                    // Access the `key` property from the response body
+                    token = response.body()?.key
+                    val userResponse = AuthRetrofitInstance.api.getUserInfo("Token $token")
+                    profile = userResponse
+                    errorMessage = null
+                } else {
+                    errorMessage = interpretErrorResponse(response.code())
+                }
             } catch (e: Exception) {
-                errorMessage = "Login failed: ${e.localizedMessage}"
+                errorMessage = "An error occurred: ${e.localizedMessage}"
             } finally {
                 isLoading = false
             }
         }
     }
 
-    // Function to update user profile (POST method)
     fun updateProfile(
         context: Context,
         username: String,
@@ -83,7 +109,12 @@ class AuthViewModel : ViewModel() {
         profile_picture: Uri?,
         userId: String?
     ) {
-        viewModelScope.launch {
+        viewModelScope.launch(Dispatchers.IO) { // Runs in IO thread context
+            if (username.isBlank() || email.isBlank()) {
+                errorMessage = "Username and email cannot be empty."
+                return@launch
+            }
+
             try {
                 val token = getToken(context)
                 val contentResolver = context.contentResolver
@@ -107,60 +138,46 @@ class AuthViewModel : ViewModel() {
                     userId = userIdPart
                 )
 
-                profile = response
-                Log.d("UPDATE_PROFILE", "Success: $response")
-
+                if (response.isSuccessful) {
+                    // Access the body of the response and assign it to the profile
+                    profile = response.body()
+                    errorMessage = null
+                } else {
+                    // Handle error based on response status
+                    errorMessage = response.errorBody()?.string() ?: "Failed to update profile. Please try again."
+                }
             } catch (e: Exception) {
-                Log.e("UPDATE_PROFILE", "Error: ${e.localizedMessage}")
+                errorMessage = "An error occurred: ${e.localizedMessage}"
             }
         }
     }
 
-
-
     fun logout(context: Context) {
-        viewModelScope.launch {
+        viewModelScope.launch(Dispatchers.IO) { // Runs in IO thread context
             isLoading = true
             try {
-                // Retrieve the token
                 val savedToken = token
-                Log.d("TOKEN", "Token: $savedToken") // Debugging log
-
                 if (!savedToken.isNullOrEmpty()) {
-                    // Make the API call to logout
                     val response = AuthRetrofitInstance.api.logout("Token $savedToken")
                     if (response.isSuccessful) {
-                        // Clear the token from SharedPreferences
                         val sharedPreferences = context.getSharedPreferences("user_prefs", Context.MODE_PRIVATE)
                         sharedPreferences.edit { clear() }
-
-                        // Update login state
                         _isLoggedIn.value = false
                         token = null
                         profile = null
-
-                        Log.d("LOGOUT", "Successfully logged out")
                     } else {
-                        Log.e("LOGOUT", "Logout failed: ${response.code()} - ${response.message()}")
-                        errorMessage = response.errorBody()?.string() ?: "Logout failed"
+                        errorMessage = interpretErrorResponse(response.code())
                     }
                 } else {
-                    Log.e("LOGOUT", "No token found, cannot log out")
-                    errorMessage = "No token found"
+                    errorMessage = "No token found. Unable to log out."
                 }
             } catch (e: Exception) {
-                Log.e("LOGOUT", "Error during logout: ${e.localizedMessage}")
                 errorMessage = "An error occurred: ${e.localizedMessage}"
             } finally {
                 isLoading = false
             }
         }
     }
-
-
-
-
-
 
     fun saveUsername(context: Context, username: String) {
         val sharedPreferences = context.getSharedPreferences("user_prefs", Context.MODE_PRIVATE)
@@ -192,7 +209,6 @@ class AuthViewModel : ViewModel() {
         return sharedPreferences.getString("password", null)
     }
 
-
     fun saveToken(context: Context, token: String) {
         SharedPreferencesHelper.save(context, "auth_token", token)
     }
@@ -201,20 +217,13 @@ class AuthViewModel : ViewModel() {
         return SharedPreferencesHelper.get(context, "auth_token")
     }
 
-    // Check if the user is logged in
     fun isLoggedIn(context: Context): Boolean {
         return !getToken(context).isNullOrEmpty()
     }
 
-
-    // Check login status by retrieving token from SharedPreferences
     fun checkLoginStatus(context: Context) {
-        viewModelScope.launch {
-            // Use the isLoggedIn function to simplify the logic
+        viewModelScope.launch(Dispatchers.IO) {
             _isLoggedIn.value = isLoggedIn(context)
         }
     }
-
-
-
 }

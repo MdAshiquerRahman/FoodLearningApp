@@ -18,6 +18,9 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -33,15 +36,23 @@ import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import com.example.practice.R
 import com.example.practice.viewmodel.AuthViewModel
+import kotlinx.coroutines.delay
 
 @Composable
 fun AuthScreen(
     modifier: Modifier = Modifier,
-    navController: NavController,
-    isReadyToRender: Boolean = true
+    navController: NavController
 ) {
-    if (!isReadyToRender) {
-        // Show only the app icon while rendering is not ready
+    val isRendered = remember { mutableStateOf(false) }
+
+    // Simulate loading or initialization delay
+    LaunchedEffect(Unit) {
+        delay(1000) // Adjust delay as needed
+        isRendered.value = true
+    }
+
+    if (!isRendered.value) {
+        // Show a loading indicator during initialization
         Box(
             modifier = Modifier.fillMaxSize(),
             contentAlignment = Alignment.Center
@@ -49,7 +60,7 @@ fun AuthScreen(
             CircularProgressIndicator()
         }
     } else {
-        // Render the rest of the AuthScreen when ready
+        // Render the rest of the AuthScreen once the state is ready
         Column(
             modifier = modifier
                 .fillMaxSize()

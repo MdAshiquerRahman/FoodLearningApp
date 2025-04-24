@@ -1,9 +1,7 @@
 package com.example.practice.screen
 
 import android.content.Context
-import android.content.Intent
 import android.os.Build
-import android.util.Log
 import androidx.annotation.RequiresApi
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -24,9 +22,7 @@ import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.AccountCircle
 import androidx.compose.material.icons.filled.Menu
-import androidx.compose.material3.DrawerState
 import androidx.compose.material3.DrawerValue
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
@@ -36,7 +32,6 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
-import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.material3.rememberDrawerState
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
@@ -57,17 +52,12 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
-import androidx.navigation.compose.rememberNavController
-import com.example.practice.MainActivity
 import com.example.practice.R
-import com.example.practice.TopBar
-import com.example.practice.api.allRecipeData
 import com.example.practice.elements.EditProfileDialog
 import com.example.practice.elements.FixedButton
 import com.example.practice.elements.UserProfile
@@ -84,13 +74,14 @@ fun ProfileScreen(
     modifier: Modifier = Modifier,
     viewModel: AuthViewModel,
     context: Context,
-    navController: NavController
+    navController: NavController, // MyApp's NavController
+    parentNavController: NavController // Parent NavController
 ) {
     val userName = viewModel.getUsername(context = context).orEmpty()
     val userPass = viewModel.getPassword(context = context).orEmpty()
     val userEmail = viewModel.getEmail(context = context).orEmpty()
 
-    val videoViewModel : VideoViewModel = viewModel()
+    val videoViewModel: VideoViewModel = viewModel()
 
     // Trigger login side-effect using LaunchedEffect
     LaunchedEffect(Unit) {
@@ -107,10 +98,13 @@ fun ProfileScreen(
         drawerContent = {
             DrawerContent(
                 onLogoutClick = {
+                    // Perform logout
                     viewModel.logout(context)
-                    val intent = Intent(context, MainActivity::class.java)
-                    intent.putExtra("startDestination", "auth") // Pass the desired route
-                    context.startActivity(intent)
+
+                    // Navigate to "auth" in the parent NavHost
+                    parentNavController.navigate("auth") {
+                        popUpTo(parentNavController.graph.startDestinationId) { inclusive = true }
+                    }
                 }
             )
         }
@@ -131,12 +125,7 @@ fun ProfileScreen(
                         }) {
                             Icon(Icons.Default.Menu, contentDescription = "Menu")
                         }
-                    },
-//                    colors = TopAppBarDefaults.smallTopAppBarColors(
-//                        containerColor = Color.Blue,
-//                        titleContentColor = Color.White,
-//                        navigationIconContentColor = Color.White
-//                    )
+                    }
                 )
             },
             content = { padding ->
@@ -154,7 +143,7 @@ fun ProfileScreen(
                         viewModel
                     )
                     Spacer(modifier = Modifier.height(13.dp))
-                    PostCollectsHistoryButton(navController,userName)
+                    PostCollectsHistoryButton(navController, userName)
                 }
             }
         )
@@ -177,8 +166,13 @@ fun DrawerContent(
             .padding(16.dp)
     ) {
         Spacer(modifier = Modifier.height(16.dp))
-        TextButton(onClick = onLogoutClick) {
-            Text("Logout", style = TextStyle(fontSize = 18.sp, fontWeight = FontWeight.Bold, color = Color.Red))
+        TextButton(
+            onClick = { onLogoutClick() }
+        ) {
+            Text(
+                "Logout",
+                style = TextStyle(fontSize = 18.sp, fontWeight = FontWeight.Bold, color = Color.Red)
+            )
         }
     }
 }

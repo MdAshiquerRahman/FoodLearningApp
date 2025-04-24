@@ -4,6 +4,7 @@ import android.os.Build
 import androidx.annotation.RequiresApi
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
@@ -24,52 +25,87 @@ import kotlinx.coroutines.delay
 @RequiresApi(Build.VERSION_CODES.O)
 @Composable
 fun AppNavigation(
-    modifier: Modifier = Modifier,
-    ) {
+    modifier: Modifier
+) {
     val viewModel: AuthViewModel = viewModel()
-    val videoViewModel: VideoViewModel = viewModel()
     val navController = rememberNavController()
     val context = LocalContext.current
 
-    val isLoggedIn = remember { mutableStateOf(false) }
+    // Observe the login state from AuthViewModel reactively
+    val isLoggedIn = viewModel.isLoggedIn.collectAsState(initial = false)
     val isReady = remember { mutableStateOf(false) }
 
-
+    // Delay rendering for 1 second (e.g., splash screen or initialization)
     LaunchedEffect(Unit) {
         delay(1000)
         isReady.value = true
     }
 
-    // Call checkLoginStatus to update the login state reactively
+    // Check login status and update ViewModel
     LaunchedEffect(context) {
         viewModel.checkLoginStatus(context)
-        isLoggedIn.value = viewModel.isLoggedIn(context) // Reflect the updated state
     }
 
     val startDestination = if (isLoggedIn.value) "myapp" else "auth"
 
+//    NavHost(navController = navController, startDestination = startDestination) {
+//        composable("auth") {
+//            AuthScreen(
+//                modifier = modifier,
+//                navController = navController,
+//                isReadyToRender = isReady.value
+//            )
+//        }
+//        composable("signup") {
+//            SignUpScreen(modifier, navController, viewModel)
+//        }
+//        composable("login") {
+//            LoginScreen(modifier, navController, viewModel, context)
+//        }
+//        composable("myapp") {
+//            // Check login state before displaying MyApp
+//            if (!isLoggedIn.value) {
+//                // Redirect to the login screen
+//                navController.navigate("auth") {
+//                    popUpTo("auth") { inclusive = true } // Clears the navigation stack
+//                }
+//            } else {
+//                MyApp(
+//                    modifier = modifier,
+//                    viewModel = viewModel,
+//                    videoViewModel = videoViewModel,
+//                    context = context
+//                )
+//            }
+//        }
+//    }
+
     NavHost(navController = navController, startDestination = startDestination) {
         composable("auth") {
             AuthScreen(
-                modifier = modifier,
-                navController = navController,
-                isReadyToRender = isReady.value
+                modifier = Modifier,
+                navController = navController
             )
         }
         composable("signup") {
-            SignUpScreen(modifier,navController,viewModel)
+            SignUpScreen(modifier = Modifier, navController = navController, viewModel = viewModel())
         }
         composable("login") {
-            LoginScreen(modifier,navController,viewModel,context)
+            LoginScreen(
+                modifier = Modifier,
+                navController = navController,
+                viewModel = viewModel(),
+                context = LocalContext.current
+            )
         }
         composable("myapp") {
             MyApp(
-                modifier,
-                viewModel,
-                videoViewModel = videoViewModel,
-                context = context
+                modifier = Modifier,
+                viewModel = viewModel(),
+                videoViewModel = viewModel(),
+                context = LocalContext.current,
+                parentNavController = navController
             )
         }
     }
-
 }
