@@ -9,24 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e367a02-04c6-4699-92dd-46d76fe57e67" name="Changes" comment="completed">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/MyApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/MyApp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/api/AuthApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/api/AuthApiService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/api/AuthRetrofitInstance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/api/AuthRetrofitInstance.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/navigation/AppNavigation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/navigation/AppNavigation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/FavoriteScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/FavoriteScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/HomeScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/HomeScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/PostScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/PostScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/ProfileScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/ProfileScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/TurorialScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/TurorialScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/auth/AuthScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/screen/auth/AuthScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/viewmodel/AuthViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/viewmodel/AuthViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/viewmodel/CommentViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/viewmodel/CommentViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/practice/viewmodel/VideoViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/practice/viewmodel/VideoViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-    </list>
+    <list default="true" id="2e367a02-04c6-4699-92dd-46d76fe57e67" name="Changes" comment="Updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,11 +175,20 @@
       <option name="project" value="LOCAL" />
       <updated>1745453921835</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1745502569082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745502569082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
