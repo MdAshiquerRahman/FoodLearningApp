@@ -3,6 +3,7 @@ package com.example.practice.screen
 
 
 import android.annotation.SuppressLint
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -49,18 +50,85 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
+import androidx.navigation.compose.currentBackStackEntryAsState
+import com.example.practice.api.dataclass.video.UploadVideosItem
+import com.example.practice.elements.FixedButton
 import com.example.practice.pages.post.RecipePostsCard
 import com.example.practice.viewmodel.AuthViewModel
 import com.example.practice.viewmodel.VideoViewModel
 
 
-@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun CustomTopBar(
+    isSearching: Boolean,
+    searchQuery: String,
+    title: String,
+    onSearchQueryChange: (String) -> Unit,
+    onBackClick: () -> Unit,
+    onSearchClick: () -> Unit,
+    onCloseClick: () -> Unit
+) {
+    Box(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 8.dp, vertical = 4.dp)
+            .background(color = Color(0xFFEFE7DC)),
+    ) {
+        // Back Icon - Start
+//        IconButton(
+//            onClick = onBackClick,
+//            modifier = Modifier.align(Alignment.CenterStart)
+//        ) {
+//            Icon(Icons.Default.ArrowBack, contentDescription = "Back")
+//        }
+
+        // Title in Center
+        Box(modifier = Modifier.align(Alignment.Center)) {
+            FixedButton(
+                text = title,
+                isSelected = true,
+                onClick = { },
+                modifier = Modifier
+            )
+        }
+
+        // Search or Close Icon - End
+        if (isSearching) {
+            TextField(
+                value = searchQuery,
+                onValueChange = onSearchQueryChange,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .align(Alignment.Center)
+                    .padding(start = 56.dp, end = 56.dp),
+                placeholder = { Text("Search...") },
+                singleLine = true,
+                trailingIcon = {
+                    IconButton(onClick = onCloseClick) {
+                        Icon(Icons.Default.Close, contentDescription = "Close")
+                    }
+                }
+            )
+        } else {
+            IconButton(
+                onClick = onSearchClick,
+                modifier = Modifier.align(Alignment.CenterEnd)
+            ) {
+                Icon(Icons.Default.Search, contentDescription = "Search")
+            }
+        }
+    }
+}
+
+
+
 @Composable
 fun HomeScreen(
     navController: NavController,
     videoViewModel: VideoViewModel,
     modifier: Modifier = Modifier,
 ) {
+    val videoList = videoViewModel.videoList.observeAsState(emptyList())
     val isLoading = videoViewModel.isLoading.observeAsState(false)
     val errorMessage = videoViewModel.errorMessage.observeAsState(null)
     val context = LocalContext.current
@@ -68,6 +136,7 @@ fun HomeScreen(
     var isSearching by remember { mutableStateOf(false) }
     var searchQuery by remember { mutableStateOf("") }
     var showVideoTutorials by remember { mutableStateOf(false) }
+
 
     // Fetch videos and favorites
     LaunchedEffect(Unit) {
@@ -77,39 +146,20 @@ fun HomeScreen(
 
     Scaffold(
         topBar = {
-            TopAppBar(
-                title = { Text(text = "Explore") },
-                actions = {
-                    if (isSearching) {
-                        TextField(
-                            value = searchQuery,
-                            onValueChange = { searchQuery = it },
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .padding(8.dp),
-                            placeholder = { Text("Search...") },
-                            singleLine = true,
-                            trailingIcon = {
-                                IconButton(onClick = {
-                                    isSearching = false
-                                    searchQuery = ""
-                                }) {
-                                    Icon(Icons.Default.Close, contentDescription = "Close")
-                                }
-                            }
-                        )
-                    } else {
-                        IconButton(onClick = {
-                            isSearching = true
-                            showVideoTutorials = true // Trigger VideoTutorials on Search click
-                        }) {
-                            Icon(Icons.Default.Search, contentDescription = "Search")
-                        }
-                    }
+            CustomTopBar(
+                isSearching = isSearching,
+                searchQuery = searchQuery,
+                onSearchQueryChange = { searchQuery = it },
+                onBackClick = { navController.popBackStack() },
+                onSearchClick = {
+                    isSearching = true
+                    showVideoTutorials = true
                 },
-                colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = MaterialTheme.colorScheme.surface
-                )
+                title = "Explore",
+                onCloseClick = {
+                    isSearching = false
+                    searchQuery = ""
+                }
             )
         }
     ) { paddingValues ->
@@ -131,34 +181,19 @@ fun HomeScreen(
                     )
                 }
                 else -> {
-                    Column(
-                        modifier = modifier
-                            .fillMaxSize()
-                            .padding(top = 16.dp),
-                    ) {
-                        Button(
-                            onClick = { showVideoTutorials = true },
-                            modifier = Modifier
-                                .padding(16.dp)
-                                .align(Alignment.CenterHorizontally)
-                        ) {
-                            Text("Show Video Tutorials")
-                        }
-
-                        if (showVideoTutorials) {
-                            VideoTutorials(
-                                navController = navController,
-                                modifier = modifier,
-                                videoViewModel = videoViewModel,
-                                searchQuery = searchQuery
-                            )
-                        }
+                        VideoTutorials(
+                            navController = navController,
+                            modifier = modifier,
+                            videoViewModel = videoViewModel,
+                            searchQuery = searchQuery,
+                            videoList = videoList.value,
+                            isLoading = isLoading.value
+                        )
                     }
                 }
             }
         }
     }
-}
 
 
 @Composable
@@ -166,23 +201,29 @@ fun VideoTutorials(
     navController: NavController,
     modifier: Modifier = Modifier,
     videoViewModel: VideoViewModel,
-    searchQuery: String
+    searchQuery: String,
+    videoList: List<UploadVideosItem>,
+    isLoading: Boolean
 ) {
-    val videoList = videoViewModel.videoList.observeAsState(emptyList())
-    val isLoading = videoViewModel.isLoading.observeAsState(false)
     val favoriteVideoList = videoViewModel.favoriteVideoList.observeAsState(emptyList())
     val showDialog = remember { mutableStateOf(false) }
 
-    // Filter videos based on search
-    val filteredVideos = videoList.value.filter {
+    // State to track if loading has been attempted
+    var hasAttemptedLoad by remember { mutableStateOf(false) }
+
+    // Only set hasAttemptedLoad to true after loading completes at least once
+    if (!isLoading && videoList.isNotEmpty() && !hasAttemptedLoad) {
+        hasAttemptedLoad = true
+    }
+
+    // Filter videos based on the search query
+    val filteredVideos = videoList.filter {
         it.title.contains(searchQuery, ignoreCase = true) || searchQuery.isBlank()
     }
 
-    // Show empty state dialog if no videos
-    LaunchedEffect(isLoading.value, videoList.value) {
-        if (!isLoading.value && videoList.value.isEmpty()) {
-            showDialog.value = true
-        }
+    // Show AlertDialog only when loading is attempted and filtered results are empty
+    if (hasAttemptedLoad && filteredVideos.isEmpty()) {
+        showDialog.value = true
     }
 
     if (showDialog.value) {
@@ -239,4 +280,3 @@ fun VideoTutorials(
         }
     }
 }
-

@@ -9,21 +9,21 @@
 9        android:targetSdkVersion="35" />
 10
 11    <uses-feature
-11-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:5:5-7:36
+11-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:5:5-7:36
 12        android:name="android.hardware.camera"
-12-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:6:9-47
+12-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:6:9-47
 13        android:required="false" />
-13-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:7:9-33
+13-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:7:9-33
 14
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:9:5-67
-15-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:9:22-64
+15-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:9:5-67
+15-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:9:22-64
 16    <uses-permission android:name="android.permission.CAMERA" />
-16-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:10:5-65
-16-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:10:22-62
+16-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:10:5-65
+16-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:10:22-62
 17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-17-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:11:5-80
-17-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:11:22-77
+17-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:11:5-80
+17-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:11:22-77
 18
 19    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 20    <!-- <uses-sdk android:minSdkVersion="21" /> -->
@@ -43,53 +43,53 @@
 27-->[androidx.core:core:1.15.0] C:\Users\Dell\.gradle\caches\8.11.1\transforms\4d4aa5cb00bb36b80903b83bf365372e\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
 28
 29    <application
-29-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:15:5-38:19
+29-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:15:5-38:19
 30        android:allowBackup="true"
-30-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:16:9-35
+30-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:16:9-35
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.15.0] C:\Users\Dell\.gradle\caches\8.11.1\transforms\4d4aa5cb00bb36b80903b83bf365372e\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 32        android:dataExtractionRules="@xml/data_extraction_rules"
-32-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:17:9-65
+32-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:17:9-65
 33        android:debuggable="true"
 34        android:extractNativeLibs="false"
 35        android:fullBackupContent="@xml/backup_rules"
-35-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:18:9-54
+35-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:18:9-54
 36        android:icon="@mipmap/ic_launcher"
-36-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:19:9-43
+36-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:19:9-43
 37        android:label="@string/app_name"
-37-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:20:9-41
+37-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:20:9-41
 38        android:roundIcon="@mipmap/ic_launcher_round"
-38-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:21:9-54
+38-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:21:9-54
 39        android:supportsRtl="true"
-39-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:22:9-35
+39-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:22:9-35
 40        android:testOnly="true"
 41        android:theme="@style/Theme.SplashScreen.ComposeSplash"
-41-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:23:9-64
+41-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:23:9-64
 42        android:usesCleartextTraffic="true" >
-42-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:24:9-44
+42-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:24:9-44
 43        <activity
-43-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:26:9-37:20
+43-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:26:9-37:20
 44            android:name="com.example.practice.MainActivity"
-44-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:27:13-41
+44-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:27:13-41
 45            android:exported="true"
-45-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:28:13-36
+45-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:28:13-36
 46            android:label="@string/app_name"
-46-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:30:13-45
+46-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:30:13-45
 47            android:screenOrientation="portrait"
-47-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:31:13-49
+47-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:31:13-49
 48            android:theme="@style/Theme.SplashScreen.ComposeSplash"
-48-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:32:13-68
+48-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:32:13-68
 49            android:windowSoftInputMode="adjustResize" >
-49-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:29:13-55
+49-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:29:13-55
 50            <intent-filter>
-50-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:33:13-36:29
+50-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:33:13-36:29
 51                <action android:name="android.intent.action.MAIN" />
-51-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:34:17-69
-51-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:34:25-66
+51-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:34:17-69
+51-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:34:25-66
 52
 53                <category android:name="android.intent.category.LAUNCHER" />
-53-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:35:17-77
-53-->C:\Users\Dell\AndroidStudioProjects\app\src\main\AndroidManifest.xml:35:27-74
+53-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:35:17-77
+53-->C:\Users\Dell\FoodLearningApp\app\src\main\AndroidManifest.xml:35:27-74
 54            </intent-filter>
 55        </activity>
 56        <activity

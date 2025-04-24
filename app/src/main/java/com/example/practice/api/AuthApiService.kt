@@ -18,6 +18,7 @@ import okhttp3.RequestBody
 import retrofit2.Call
 import retrofit2.Response
 import retrofit2.http.Body
+import retrofit2.http.DELETE
 import retrofit2.http.GET
 import retrofit2.http.Header
 import retrofit2.http.Multipart
@@ -28,11 +29,12 @@ import retrofit2.http.Path
 
 interface AuthApiService {
 
+
     @POST("auth/registration/")
     suspend fun registerUser(@Body request: SignUpRequest): Response<Unit>
 
     @POST("auth/login/")
-    suspend fun login(@Body request: LoginRequest): LoginResponse
+    suspend fun login(@Body request: LoginRequest): Response<LoginResponse>
 
 
 
@@ -66,6 +68,13 @@ interface AuthApiService {
     // Dislike video
     @POST("api/videos/toggle-dislike/{video-id}/")
     suspend fun dislikeVideo(
+        @Header("Authorization") token: String,  // Fix the variable name type
+        @Path("video-id") videoId: Int  // Add Path annotation
+    ): Response<Unit>
+
+    // Delete
+    @DELETE("api/videos/upload-videos/{video-id}/")
+    suspend fun deleteVideo(
         @Header("Authorization") token: String,  // Fix the variable name type
         @Path("video-id") videoId: Int  // Add Path annotation
     ): Response<Unit>
@@ -116,7 +125,7 @@ interface AuthApiService {
         @Part("email") email: RequestBody,
         @Part profile_picture: MultipartBody.Part? = null, // No part name here
         @Part("UserId") userId: RequestBody? = null
-    ): ProfileResponse
+    ): Response<ProfileResponse>
 
 
     @POST("auth/logout/")

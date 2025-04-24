@@ -25,6 +25,7 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material.icons.filled.Clear
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.Button
@@ -74,31 +75,28 @@ fun RecipeTitle(navController: NavController,title: String) {
     val screenWidth = configuration.screenWidthDp.dp
 
 
-    Row(
+    Box(
         modifier = Modifier
-            .padding(12.dp)
             .fillMaxWidth()
-            .background(color = Color(0xFFEFE7DC)),
-        verticalAlignment = Alignment.CenterVertically,
-        horizontalArrangement = Arrangement.Center
+            .background(color = Color(0xFFEFE7DC))
+            .padding(12.dp)
     ) {
-//        Icon(
-//            imageVector = Icons.Default.ArrowBack,
-//            contentDescription = null,
-//            modifier = Modifier
-//                .clickable(
-//                    onClick = {
-//                        navController.popBackStack()
-//                    }
-//                )
-//        )
+        Icon(
+            imageVector = Icons.Default.ArrowBack,
+            contentDescription = null,
+            modifier = Modifier
+                .align(Alignment.CenterStart)
+                .clickable { navController.popBackStack() }
+        )
+
         FixedButton(
             text = title,
             isSelected = true,
-            onClick = { selectedButton },
-            modifier = Modifier.wrapContentWidth()
+            onClick = {  },
+            modifier = Modifier.align(Alignment.Center)
         )
     }
+
 
 }
 
@@ -209,6 +207,7 @@ fun RecipeTutorial(videoUrl: String) {
 @OptIn(UnstableApi::class)
 @Composable
 fun CommentSection(
+    navController: NavController,
     videoViewModel: VideoViewModel,
     title: String,
     description: String,
@@ -245,10 +244,8 @@ fun CommentSection(
         viewModel.fetchComments()
     }
 
-    favoriteVideList.value.forEach { video ->
-        if (video.id == recipeId) {
-            isFavorite = !isFavorite
-        }
+    LaunchedEffect(favoriteVideList.value){
+        isFavorite = favoriteVideList.value.any {  it.id == recipeId }
     }
 
     if (isLoading.value) {
@@ -290,6 +287,25 @@ fun CommentSection(
                             )
                         },
                     tint = if (isFavorite) Color.Red else Color.Gray
+                )
+
+                Spacer(modifier = Modifier.height(6.dp))
+
+                Icon(
+                    imageVector = Icons.Default.Clear,
+                    contentDescription = null,
+                    modifier = Modifier
+                        .clickable {
+                            videoViewModel.deleteVideo(
+                                videoId = recipeId,
+                                token = token.toString(),
+                                onSuccess = {
+                                    Toast.makeText(context,"$title is deleted",Toast.LENGTH_SHORT).show()
+                                    navController.navigate("home")
+                                }
+                            )
+                        },
+                    tint = Color.Red
                 )
 
                 Spacer(modifier = Modifier.width(40.dp))
@@ -359,10 +375,14 @@ fun LikeDislikeButtons(
     }
 
     val likeVideo = videoViewModel.likeStatus
-    var isLike by remember { mutableStateOf(likeVideo.value!!.liked) }
+    val liked = likeVideo.value?.liked ?: false // default to false if null
+    var isLike by remember { mutableStateOf(liked) }
+
 
     val dislikeVideo = videoViewModel.dislikeStatus
-    var isDislike by remember { mutableStateOf(dislikeVideo.value!!.disliked) }
+    val disliked = dislikeVideo.value?.disliked ?: false
+    var isDislike by remember { mutableStateOf(disliked) }
+
 
     // States to track likes, dislikes, and current user selection
     var totalLikes by remember { mutableIntStateOf(initialLikes) }
@@ -577,6 +597,7 @@ fun TutorialScreen(
         RecipeTutorial(recipeUrl)
         RecipeDescription(author,recipeDescription)
         CommentSection(
+            navController,
             videoViewModel,
             recipeTitle,
             recipeDescription,

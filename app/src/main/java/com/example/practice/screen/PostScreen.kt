@@ -160,23 +160,33 @@ fun PostScreen(
             onClick = {
                 if (title.isNotEmpty() && description.isNotEmpty() &&
                     selectedVideoUri != null && selectedThumbnailUri != null) {
+
                     viewModel.postVideos(
                         context = context,
                         token = token.toString(),
                         title = title,
                         description = description,
                         video_file = selectedVideoUri,
-                        thamnail = selectedThumbnailUri
+                        thamnail = selectedThumbnailUri,
+                        onSuccess = {
+                            // ✅ Only navigate after upload + fetch is done
+                            navController.navigate("home") {
+                                popUpTo("post") { inclusive = true }
+                            }
+                        }
                     )
-                    navController.navigate("home")
+
                 } else {
                     Toast.makeText(context, "All fields are required!", Toast.LENGTH_SHORT).show()
                 }
             },
-            modifier = Modifier.fillMaxWidth().height(50.dp)
+            modifier = Modifier
+                .fillMaxWidth()
+                .height(50.dp)
         ) {
             Text(text = "Post", fontSize = 18.sp)
         }
+
     }
 }
 
