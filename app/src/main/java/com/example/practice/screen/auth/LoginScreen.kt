@@ -35,6 +35,7 @@ import com.example.practice.viewmodel.AuthViewModel
 @RequiresApi(Build.VERSION_CODES.O)
 @Composable
 fun LoginScreen(modifier: Modifier = Modifier, navController: NavController, viewModel: AuthViewModel,context: Context) {
+
     var username by remember { mutableStateOf("") }
     var email by remember { mutableStateOf("") }
     var password by remember { mutableStateOf("") }

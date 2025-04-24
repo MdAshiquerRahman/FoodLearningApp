@@ -49,7 +49,7 @@ class AuthViewModel : ViewModel() {
     }
 
     fun signUp(username: String, email: String, password1: String, password2: String) {
-        viewModelScope.launch(Dispatchers.IO) { // Runs in IO thread context
+        viewModelScope.launch { // Runs in IO thread context
             if (username.isBlank() || email.isBlank() || password1.isBlank() || password2.isBlank()) {
                 errorMessage = "All fields are required."
                 return@launch
@@ -74,7 +74,7 @@ class AuthViewModel : ViewModel() {
     }
 
     fun login(username: String, email: String, password: String) {
-        viewModelScope.launch(Dispatchers.IO) { // Runs in IO thread context
+        viewModelScope.launch { // Runs in IO thread context
             if (username.isBlank() || email.isBlank() || password.isBlank()) {
                 errorMessage = "All fields are required."
                 return@launch
@@ -109,7 +109,7 @@ class AuthViewModel : ViewModel() {
         profile_picture: Uri?,
         userId: String?
     ) {
-        viewModelScope.launch(Dispatchers.IO) { // Runs in IO thread context
+        viewModelScope.launch { // Runs in IO thread context
             if (username.isBlank() || email.isBlank()) {
                 errorMessage = "Username and email cannot be empty."
                 return@launch
@@ -153,7 +153,7 @@ class AuthViewModel : ViewModel() {
     }
 
     fun logout(context: Context) {
-        viewModelScope.launch(Dispatchers.IO) { // Runs in IO thread context
+        viewModelScope.launch { // Runs in IO thread context
             isLoading = true
             try {
                 val savedToken = token
@@ -222,7 +222,7 @@ class AuthViewModel : ViewModel() {
     }
 
     fun checkLoginStatus(context: Context) {
-        viewModelScope.launch(Dispatchers.IO) {
+        viewModelScope.launch {
             _isLoggedIn.value = isLoggedIn(context)
         }
     }

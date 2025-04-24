@@ -14,7 +14,6 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.example.practice.api.dataclass.likedislike.DislikeStatusResponse
 import com.example.practice.api.dataclass.likedislike.LikeStatusResponse
-import com.example.practice.api.dataclass.video.FavoriteVideos
 import com.example.practice.api.dataclass.video.FavoriteVideosItem
 import com.example.practice.api.dataclass.video.UploadVideosItem
 import kotlinx.coroutines.Dispatchers
@@ -58,12 +57,12 @@ class VideoViewModel : ViewModel() {
         onSuccess: () -> Unit = {}
     ) {
         if (video_file == null || thamnail == null) {
-            _errorMessage.value = "Video or thumbnail file is missing."
+            _errorMessage.postValue("Video or thumbnail file is missing.")
             return
         }
 
         viewModelScope.launch(Dispatchers.IO) {
-            _isLoading.postValue(true)
+            _isLoading.postValue(true) // Start loading
             _errorMessage.postValue(null)
 
             try {
@@ -95,16 +94,15 @@ class VideoViewModel : ViewModel() {
                 )
 
                 handleApiResponse(response) {
-                    fetchVideos()
-                    onSuccess()
+                    fetchVideos() // Fetch videos after successful post
+                    onSuccess() // Trigger navigation or other success actions
                 }
-
             } catch (e: IOException) {
                 _errorMessage.postValue("Network error occurred. Please try again.")
             } catch (e: Exception) {
                 _errorMessage.postValue("An unexpected error occurred. Please try again.")
             } finally {
-                _isLoading.postValue(false)
+                _isLoading.postValue(false) // End loading
             }
         }
     }
@@ -225,12 +223,16 @@ class VideoViewModel : ViewModel() {
                     videoId = videoId
                 )
                 if (response.isSuccessful) {
-                    onSuccess()
+                    viewModelScope.launch(Dispatchers.Main) {
+                        onSuccess() // Navigate and show toast on main thread
+                    }
                 } else {
                     _errorMessage.postValue("Error: ${response.code()} - ${response.message()}")
+                    Log.e("DeleteVideo", "Error deleting video: ${response.code()} - ${response.message()}")
                 }
             } catch (e: Exception) {
                 _errorMessage.postValue("An error occurred: ${e.localizedMessage}")
+                Log.e("DeleteVideo", "Exception: ${e.localizedMessage}")
             } finally {
                 _isLoading.postValue(false)
             }

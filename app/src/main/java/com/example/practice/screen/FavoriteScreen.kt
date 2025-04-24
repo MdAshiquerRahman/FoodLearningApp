@@ -37,7 +37,6 @@ import com.example.practice.pages.post.RecipePostsCard
 import com.example.practice.viewmodel.AuthViewModel
 import com.example.practice.viewmodel.VideoViewModel
 
-
 @Composable
 fun FavoriteScreen(
     navController: NavController,
@@ -76,7 +75,7 @@ fun FavoriteScreen(
                 }
             )
         }
-    ) { innerPadding ->
+    ){ innerPadding ->
         if (isLoading.value) {
             // Center the CircularProgressIndicator on the screen
             Box(
@@ -95,7 +94,7 @@ fun FavoriteScreen(
                     .fillMaxSize()
                     .padding(innerPadding),
             ) {
-                FavoriteVideoTutorials(navController, modifier, videoViewModel, true)
+                FavoriteVideoTutorials(navController, modifier, videoViewModel,true)
             }
         }
     }
@@ -120,11 +119,7 @@ fun FavoriteVideoTutorials(
         hasAttemptedLoad = true
     }
 
-    // Show AlertDialog only when loading has been attempted and the video list is empty
-    if (hasAttemptedLoad && videoList.value.isEmpty() && dialog) {
-        showDialog.value = true
-    }
-
+    // AlertDialog Logic
     if (showDialog.value) {
         AlertDialog(
             onDismissRequest = { showDialog.value = false },

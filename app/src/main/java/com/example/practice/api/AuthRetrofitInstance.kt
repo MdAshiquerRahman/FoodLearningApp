@@ -8,12 +8,14 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object AuthRetrofitInstance {
 
-    private const val BASE_URL = "http://192.168.0.124:8000/"
+    private const val BASE_URL = "http://192.168.31.96:8000/"
 
     // Logging interceptor for debugging requests/responses
     private val logging = HttpLoggingInterceptor().apply {
         setLevel(HttpLoggingInterceptor.Level.BODY)
+        level = HttpLoggingInterceptor.Level.HEADERS // Logs only headers
     }
+
 
     // OkHttpClient with logging
     private val client = OkHttpClient.Builder()

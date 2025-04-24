@@ -81,8 +81,6 @@ fun ProfileScreen(
     val userPass = viewModel.getPassword(context = context).orEmpty()
     val userEmail = viewModel.getEmail(context = context).orEmpty()
 
-    val videoViewModel: VideoViewModel = viewModel()
-
     // Trigger login side-effect using LaunchedEffect
     LaunchedEffect(Unit) {
         viewModel.login(userName, userEmail, userPass)
@@ -400,10 +398,9 @@ fun Post(
     val favoriteVideoList = viewModel.favoriteVideoList.observeAsState(emptyList())
     val context = LocalContext.current
 
+
     LaunchedEffect(Unit) {
         viewModel.fetchVideos()
-    }
-    LaunchedEffect(Unit) {
         viewModel.fetchFavoriteVideos(token = viewModel.authViewModel.getToken(context).toString())
     }
 

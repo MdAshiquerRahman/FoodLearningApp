@@ -217,41 +217,39 @@ fun CommentSection(
     totalDislikes: Int,
     recipeId: Int
 ) {
-
-    val viewModel : CommentViewModel = viewModel()
+    val viewModel: CommentViewModel = viewModel()
 
     val isLoading = viewModel.isLoading.observeAsState(false)
     val errorMessage = viewModel.errorMessage.observeAsState(null)
-
-    val selectedButton by remember { mutableStateOf(false) }
-    var showDialog by remember { mutableStateOf(false) }
-
-    val favoriteVideList = videoViewModel.favoriteVideoList.observeAsState(emptyList())
-    // For favorite icon change color
+    val comments = viewModel.commentList.observeAsState(emptyList())
+    val favoriteVideoList = videoViewModel.favoriteVideoList.observeAsState(emptyList())
 
     val context = LocalContext.current
     val token = viewModel.authViewModel.getToken(context)
 
+    var showDialog by remember { mutableStateOf(false) }
     var isFavorite by remember { mutableStateOf(false) }
-
 
     LaunchedEffect(Unit) {
         videoViewModel.fetchFavoriteVideos(token.toString())
     }
 
-    // Fetch videos after login status is confirmed
     LaunchedEffect(Unit) {
         viewModel.fetchComments()
     }
 
-    LaunchedEffect(favoriteVideList.value){
-        isFavorite = favoriteVideList.value.any {  it.id == recipeId }
+    LaunchedEffect(favoriteVideoList.value) {
+        isFavorite = favoriteVideoList.value.any { it.id == recipeId }
     }
 
     if (isLoading.value) {
-        CircularProgressIndicator()
+        Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+            CircularProgressIndicator()
+        }
     } else if (!errorMessage.value.isNullOrEmpty()) {
-        Text(text = "Error: ${errorMessage.value}")
+        Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+            Text(text = "Error: ${errorMessage.value}")
+        }
     } else {
         Column {
             Row(
@@ -265,50 +263,39 @@ fun CommentSection(
                 FixedButton(
                     text = "Comments",
                     isSelected = true,
-                    onClick = {
-                        showDialog = true
-                    },
+                    onClick = { showDialog = true },
                     modifier = Modifier.wrapContentWidth()
                 )
+
                 Spacer(modifier = Modifier.width(10.dp))
 
                 Icon(
                     painter = painterResource(R.drawable.heart_reatc),
                     contentDescription = null,
-                    modifier = Modifier
-                        .clickable {
-                            isFavorite = !isFavorite  // Toggle favorite status
-                            videoViewModel.getFavoriteVideos(
-                                recipeId,
-                                token.toString(),
-                                onSuccess = {
-                                    Toast.makeText(context, "Added to favorite", Toast.LENGTH_SHORT).show()
-                                }
-                            )
-                        },
+                    modifier = Modifier.clickable {
+                        isFavorite = !isFavorite // Toggle favorite status
+                        videoViewModel.getFavoriteVideos(
+                            recipeId,
+                            token.toString(),
+                            onSuccess = {
+                                Toast.makeText(context, "Added to favorite", Toast.LENGTH_SHORT).show()
+                            }
+                        )
+                    },
                     tint = if (isFavorite) Color.Red else Color.Gray
                 )
 
-                Spacer(modifier = Modifier.height(6.dp))
+                Spacer(modifier = Modifier.width(20.dp)) // Space between icons
 
                 Icon(
                     imageVector = Icons.Default.Clear,
                     contentDescription = null,
-                    modifier = Modifier
-                        .clickable {
-                            videoViewModel.deleteVideo(
-                                videoId = recipeId,
-                                token = token.toString(),
-                                onSuccess = {
-                                    Toast.makeText(context,"$title is deleted",Toast.LENGTH_SHORT).show()
-                                    navController.navigate("home")
-                                }
-                            )
-                        },
+                    modifier = Modifier.clickable {
+                        showDialog = true
+                    },
                     tint = Color.Red
                 )
 
-                Spacer(modifier = Modifier.width(40.dp))
                 LikeDislikeButtons(
                     videoViewModel = videoViewModel,
                     videoId = recipeId,
@@ -319,26 +306,42 @@ fun CommentSection(
                     initialLikes = totalLikes,
                     initialDislikes = totalDislikes
                 )
-                if (showDialog) {
-                    CommentDialog(
-                        onDismissRequest = { showDialog = false },
-                        onConfirmRequest = { comment ->
-                            showDialog = false
-                            // Perform the postComment action here
-                            viewModel.postComment(
-                                token = token.toString(),
-                                videoId = recipeId,
-                                text = comment // Use the input from the dialog
-                            )
-                        }
-                    )
-                }
-
             }
-            val comments = viewModel.commentList.observeAsState(emptyList())
+
+            if (showDialog) {
+                AlertDialog(
+                    onDismissRequest = { showDialog = false },
+                    title = { Text("Confirm Deletion") },
+                    text = { Text("Are you sure you want to delete \"$title\"? This action cannot be undone.") },
+                    confirmButton = {
+                        Button(
+                            onClick = {
+                                videoViewModel.deleteVideo(
+                                    videoId = recipeId,
+                                    token = token.toString(),
+                                    onSuccess = {
+                                        Toast.makeText(context, "$title is deleted", Toast.LENGTH_SHORT).show()
+                                        navController.navigate("home") {
+                                            popUpTo("home") { inclusive = true }
+                                        }
+                                    }
+                                )
+                                showDialog = false
+                            }
+                        ) {
+                            Text("Delete")
+                        }
+                    },
+                    dismissButton = {
+                        Button(onClick = { showDialog = false }) {
+                            Text("Cancel")
+                        }
+                    }
+                )
+            }
 
             LazyColumn {
-                items(comments.value){ comment ->
+                items(comments.value) { comment ->
                     if (recipeId == comment.video) {
                         UserCommentsCard(
                             userName = comment.user,

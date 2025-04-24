@@ -48,30 +48,6 @@ import com.example.practice.screen.TutorialScreen
 import com.example.practice.viewmodel.AuthViewModel
 import com.example.practice.viewmodel.VideoViewModel
 
-@Composable
-fun TopBar() {
-    Row(
-        modifier = Modifier.fillMaxWidth(),
-        horizontalArrangement = Arrangement.SpaceBetween,
-        verticalAlignment = Alignment.CenterVertically
-    ) {
-        Icon(
-            modifier = Modifier
-                .size(20.dp),
-            painter = painterResource(id = R.drawable.drawer),
-            contentDescription = "Drawer"
-        )
-        Text(text = "Explore")
-        Text(text = "Followers") // New text item
-        Icon(
-            modifier = Modifier.padding(end = 10.dp).size(20.dp),
-            painter = painterResource(id = R.drawable.search),
-            contentDescription = "Search",
-            tint = Color.Unspecified
-        )
-    }
-}
-
 
 @RequiresApi(Build.VERSION_CODES.O)
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
