@@ -4,7 +4,7 @@
             "outputFile": "com.example.practice.app-mergeDebugResources-81:/values-v29/values-v29.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dell\\.gradle\\caches\\8.11.1\\transforms\\89abd1aebb3be6f635d094feadb1d834\\transformed\\core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\8.11.1\\transforms\\89abd1aebb3be6f635d094feadb1d834\\transformed\\core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
                     "from": {
                         "startLines": "2,7",
                         "startColumns": "4,4",

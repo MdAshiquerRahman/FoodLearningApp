@@ -245,10 +245,8 @@ fun CommentSection(
         viewModel.fetchComments()
     }
 
-    favoriteVideList.value.forEach { video ->
-        if (video.id == recipeId) {
-            isFavorite = !isFavorite
-        }
+    LaunchedEffect(favoriteVideList.value){
+        isFavorite = favoriteVideList.value.any {  it.id == recipeId }
     }
 
     if (isLoading.value) {
@@ -359,10 +357,14 @@ fun LikeDislikeButtons(
     }
 
     val likeVideo = videoViewModel.likeStatus
-    var isLike by remember { mutableStateOf(likeVideo.value!!.liked) }
+    val liked = likeVideo.value?.liked ?: false // default to false if null
+    var isLike by remember { mutableStateOf(liked) }
+
 
     val dislikeVideo = videoViewModel.dislikeStatus
-    var isDislike by remember { mutableStateOf(dislikeVideo.value!!.disliked) }
+    val disliked = dislikeVideo.value?.disliked ?: false
+    var isDislike by remember { mutableStateOf(disliked) }
+
 
     // States to track likes, dislikes, and current user selection
     var totalLikes by remember { mutableIntStateOf(initialLikes) }

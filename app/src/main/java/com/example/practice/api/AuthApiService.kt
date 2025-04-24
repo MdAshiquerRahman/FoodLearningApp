@@ -28,6 +28,7 @@ import retrofit2.http.Path
 
 interface AuthApiService {
 
+
     @POST("auth/registration/")
     suspend fun registerUser(@Body request: SignUpRequest): Response<Unit>
 

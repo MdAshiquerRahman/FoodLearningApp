@@ -131,34 +131,17 @@ fun HomeScreen(
                     )
                 }
                 else -> {
-                    Column(
-                        modifier = modifier
-                            .fillMaxSize()
-                            .padding(top = 16.dp),
-                    ) {
-                        Button(
-                            onClick = { showVideoTutorials = true },
-                            modifier = Modifier
-                                .padding(16.dp)
-                                .align(Alignment.CenterHorizontally)
-                        ) {
-                            Text("Show Video Tutorials")
-                        }
-
-                        if (showVideoTutorials) {
-                            VideoTutorials(
-                                navController = navController,
-                                modifier = modifier,
-                                videoViewModel = videoViewModel,
-                                searchQuery = searchQuery
-                            )
-                        }
+                        VideoTutorials(
+                            navController = navController,
+                            modifier = modifier,
+                            videoViewModel = videoViewModel,
+                            searchQuery = searchQuery
+                        )
                     }
                 }
             }
         }
     }
-}
 
 
 @Composable
