@@ -1,0 +1,1785 @@
+<changelist name="Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]" date="1745479839845" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 4/24/2025 1:30 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-5$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-5$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-5$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$63$lambda$62$$inlined$items$default$5.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$63$lambda$62$$inlined$items$default$5.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$History$lambda$63$lambda$62$$inlined$items$default$5.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Post$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-7$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-7$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-7$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$45$lambda$44$$inlined$items$default$5.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$45$lambda$44$$inlined$items$default$5.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Post$lambda$45$lambda$44$$inlined$items$default$5.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/last-build.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/subtypes.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-8$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-8$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-8$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$2$1$1$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$VideoTutorials$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-6$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-6$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-6$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.s" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.s" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-classes.tab.values.s" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$2$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$History$2$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$1$1$1$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-classes.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.s" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$HomeScreen$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$HomeScreen$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$HomeScreen$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$2.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentDialog$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentDialog$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentDialog$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-classes1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/package-parts.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$2$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Post$2$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$fetchFavoriteVideos$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$fetchFavoriteVideos$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$fetchFavoriteVideos$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/subtypes1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$2.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$3.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$VideoTutorials$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$54$lambda$53$$inlined$items$default$5.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$54$lambda$53$$inlined$items$default$5.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Collections$lambda$54$lambda$53$$inlined$items$default$5.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/MyAppKt.kapt_metadata" />
+    <option name="AFTER_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/MyAppKt.kapt_metadata" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt.kapt_metadata" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$2$1$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Collections$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$2$1$1$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-7$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-7$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-7$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$45$lambda$44$$inlined$items$default$5.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$45$lambda$44$$inlined$items$default$5.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Post$lambda$45$lambda$44$$inlined$items$default$51.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$31.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-8$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-8$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-8$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-2$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-2$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-2$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-4$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-4$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-4$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-5$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-5$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-5$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/subtypes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$fetchFavoriteVideos$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$fetchFavoriteVideos$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$fetchFavoriteVideos$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/file-system.probe" />
+    <option name="AFTER_PATH" value=".gradle/file-system.probe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/file-system.probe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$HomeScreen$3.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$HomeScreen$3.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$HomeScreen$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-classes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$2$1$1$5.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.11.1/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.11.1/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1$1$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1$1$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$1$1$1$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentSection$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentSection$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentSection$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$History$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$ProfileScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$ProfileScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$1$1$1$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-2$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-2$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt$lambda-2$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.11.1/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.11.1/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$RecipeTutorial$lambda$14$lambda$13$$inlined$onDispose$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$2$1$1$4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$HomeScreen$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$HomeScreen$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$HomeScreen$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/supertypes.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/screen/TurorialScreenKt.kapt_metadata" />
+    <option name="AFTER_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/screen/TurorialScreenKt.kapt_metadata" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt.kapt_metadata" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$getFavoriteVideos$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$getFavoriteVideos$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$getFavoriteVideos$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/file-to-id.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$2.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$21.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-4$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-4$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-4$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$2$1$1$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-3$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-3$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-3$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-3$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-3$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-3$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-3$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-3$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-3$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-2$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-2$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.s" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-3$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-3$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt$lambda-3$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$fetchVideos$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$fetchVideos$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$fetchVideos$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$3.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$DescriptionTextWithDialog$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-3$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-3$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-3$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentSection$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentSection$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentSection$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$2.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt$MyApp$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-output.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentSection$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentSection$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentSection$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-4$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-4$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-4$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/FavoriteScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/FavoriteScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/FavoriteScreenKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$4.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$4.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$DescriptionTextWithDialog$4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$5.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab1.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-3$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-3$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt$lambda-3$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$likeVideo$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$likeVideo$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$likeVideo$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$History$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/supertypes.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/local-state/build-history.bin" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/local-state/build-history.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/build-history.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$ProfileScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$ProfileScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-3$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-3$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-3$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.s" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.s" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab.values.s" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-classes.tab.values" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$4.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$4.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$DescriptionTextWithDialog$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kapt3/incrementalData/debug/com/example/practice/screen/HomeScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kapt3/incrementalData/debug/com/example/practice/screen/HomeScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$2$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$2$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$History$2$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$RecipeTutorial$lambda$14$lambda$13$$inlined$onDispose$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/file-to-id.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.11.1/fileHashes/resourceHashesCache.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.11.1/fileHashes/resourceHashesCache.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/resourceHashesCache.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/supertypes.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$54$lambda$53$$inlined$items$default$5.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$54$lambda$53$$inlined$items$default$5.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Collections$lambda$54$lambda$53$$inlined$items$default$51.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentDialog$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentDialog$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentDialog$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab1.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab.values" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$HomeScreen$2$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$HomeScreen$2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$HomeScreen$2$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$45$lambda$44$$inlined$items$default$5.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$45$lambda$44$$inlined$items$default$5.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Post$lambda$45$lambda$44$$inlined$items$default$5.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$1$1$1$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/supertypes1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$HomeScreen$2$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$HomeScreen$2$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$HomeScreen$2$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$VideoTutorials$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-3$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-3$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-3$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/package-parts.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-4$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-4$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-4$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.s" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.s" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-output.tab.values.s" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$2.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$21.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$4.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$4.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$VideoTutorials$4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$RecipeTutorial$4.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$RecipeTutorial$4.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$RecipeTutorial$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$2$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$History$2$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-classes.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt$MyApp$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$HomeScreen$3.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$HomeScreen$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$HomeScreen$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-3$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-3$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt$lambda-3$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$2$1$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/package-parts.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.s" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$2$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Collections$2$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$2$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$2$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Post$2$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/package-parts.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Backend/recipytutor/db.sqlite3" />
+    <option name="AFTER_PATH" value="Backend/recipytutor/db.sqlite3" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/db.sqlite3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentDialog$2.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentDialog$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentDialog$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$54$lambda$53$$inlined$items$default$5.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$54$lambda$53$$inlined$items$default$5.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Collections$lambda$54$lambda$53$$inlined$items$default$5.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab.keystream1.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab1.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$63$lambda$62$$inlined$items$default$5.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$63$lambda$62$$inlined$items$default$5.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$History$lambda$63$lambda$62$$inlined$items$default$5.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab1.values" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/FavoriteScreenKt.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/FavoriteScreenKt.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/FavoriteScreenKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1$1$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1$1$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$1$1$1$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/package-parts.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.11.1/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.11.1/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/last-build.bin" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/last-build.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/last-build1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-8$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-8$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-8$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentDialog$3.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentDialog$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentDialog$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/package-parts1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentDialog$2.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$CommentDialog$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentDialog$21.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file1.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$2$1$1$3.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$2$1$1$3.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt$MyApp$2$1$1$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Post$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$63$lambda$62$$inlined$items$default$5.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$63$lambda$62$$inlined$items$default$5.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$History$lambda$63$lambda$62$$inlined$items$default$51.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$RecipeTutorial$4.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$RecipeTutorial$4.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$RecipeTutorial$4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$2$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Post$2$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-2$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt$lambda-2$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab1.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentDialog$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentDialog$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentDialog$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/shrunk-classpath-snapshot.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$fetchVideos$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$fetchVideos$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$fetchVideos$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kapt3/incApCache/debug/java-cache.bin" />
+    <option name="AFTER_PATH" value="app/build/tmp/kapt3/incApCache/debug/java-cache.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/java-cache.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$2$1$1$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$getFavoriteVideos$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$getFavoriteVideos$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$getFavoriteVideos$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$4.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$5.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$postVideos$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$postVideos$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$postVideos$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentDialog$3.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentDialog$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentDialog$31.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$postVideos$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$postVideos$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$postVideos$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-2$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt$lambda-2$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$2$1$1$3.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$2$1$1$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt$MyApp$2$1$1$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab.keystream1.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$4.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$4.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$DescriptionTextWithDialog$41.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentDialog$2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentDialog$2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentDialog$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/subtypes.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$3.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$DescriptionTextWithDialog$31.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab1.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$LikeDislikeButtons$1$1$2$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/classes1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-output.tab.values" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab.keystream1.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-output.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/FavoriteScreenKt$FavoriteScreen$2.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/FavoriteScreenKt$FavoriteScreen$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/FavoriteScreenKt$FavoriteScreen$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-2$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-2$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Collections$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-output.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/classes2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/apk/debug/app-debug.apk" />
+    <option name="AFTER_PATH" value="app/build/intermediates/apk/debug/app-debug.apk" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/app-debug.apk" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-4$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-4$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-4$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-6$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-6$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-6$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.s" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.s" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab.values1.s" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$HomeScreen$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$HomeScreen$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$HomeScreen$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt$lambda-1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab.values.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$VideoTutorials$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-4$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-4$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-4$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt$lambda-1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/file-to-id.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$History$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt$MyApp$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$2$1$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source1.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$ProfileScreenKt.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$ProfileScreenKt.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kapt3/incrementalData/debug/com/example/practice/MyAppKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kapt3/incrementalData/debug/com/example/practice/MyAppKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$5.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$dislikeVideo$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$dislikeVideo$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$dislikeVideo$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$2$1$1$3.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$2$1$1$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt$MyApp$2$1$1$31.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$HomeScreen$2$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$HomeScreen$2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$HomeScreen$2$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Post$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$3.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$VideoTutorials$31.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$ProfileScreen$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$postVideos$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$postVideos$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$postVideos$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-6$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-6$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-6$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$getFavoriteVideos$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$getFavoriteVideos$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$getFavoriteVideos$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$3.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/HomeScreenKt$VideoTutorials$3.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$VideoTutorials$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/screen/ProfileScreenKt.kapt_metadata" />
+    <option name="AFTER_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/screen/ProfileScreenKt.kapt_metadata" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt.kapt_metadata" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$LikeDislikeButtons$1$1$2$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab1.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab1.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/FavoriteScreenKt$FavoriteScreen$2.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/FavoriteScreenKt$FavoriteScreen$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/FavoriteScreenKt$FavoriteScreen$21.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$likeVideo$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$likeVideo$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$likeVideo$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes1.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source.tab.keystream1.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/package-parts.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/file-to-id1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/lookups1.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab1.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$ProfileScreenKt$lambda-1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$ProfileScreenKt$lambda-1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/local-state/build-history.bin" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/local-state/build-history.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/build-history1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/FavoriteScreenKt$FavoriteScreen$2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/FavoriteScreenKt$FavoriteScreen$2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/FavoriteScreenKt$FavoriteScreen$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$dislikeVideo$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/viewmodel/VideoViewModel$dislikeVideo$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$dislikeVideo$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$3.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$DescriptionTextWithDialog$3.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$DescriptionTextWithDialog$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab.keystream.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/screen/HomeScreenKt.kapt_metadata" />
+    <option name="AFTER_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/screen/HomeScreenKt.kapt_metadata" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt.kapt_metadata" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$2$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$2$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Collections$2$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$4.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$4.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$VideoTutorials$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kapt3/incrementalData/debug/com/example/practice/viewmodel/VideoViewModel.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kapt3/incrementalData/debug/com/example/practice/viewmodel/VideoViewModel.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-fq-name-to-source1.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$2$1$1$5.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$RecipeTutorial$lambda$14$lambda$13$$inlined$onDispose$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-6$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-6$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-6$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/shrunk-classpath-snapshot1.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$HomeScreen$3.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$HomeScreen$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$HomeScreen$31.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-6$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-6$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-6$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/source-to-output1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-5$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-5$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-5$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/id-to-file.tab.keystream1.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-6$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-6$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-6$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentSection$lambda$50$lambda$49$lambda$48$$inlined$items$default$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.11.1/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.11.1/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$likeVideo$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$likeVideo$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$likeVideo$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$fetchVideos$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/viewmodel/VideoViewModel$fetchVideos$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$fetchVideos$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1$1$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1$1$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$1$1$1$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/package-parts.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source.tab.len" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt$LikeDislikeButtons$1$1$2$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$RecipeTutorial$4.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/TurorialScreenKt$RecipeTutorial$4.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$RecipeTutorial$41.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto1.tab_i" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/kaptGenerateStubsDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source.tab1.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto1.tab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$2.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/MyAppKt$MyApp$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt$MyApp$21.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$dislikeVideo$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$dislikeVideo$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$dislikeVideo$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentDialog$3.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/TurorialScreenKt$CommentDialog$3.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt$CommentDialog$3.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/internal-name-to-source.tab.values1.at" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$2$1$1$5.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/TurorialScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/TurorialScreenKt1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-5$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$HomeScreenKt$lambda-5$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$HomeScreenKt$lambda-5$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/MyAppKt$MyApp$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt$MyApp$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-5$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-5$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-5$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$2$1$1$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$fetchFavoriteVideos$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/viewmodel/VideoViewModel$fetchFavoriteVideos$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel$fetchFavoriteVideos$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/viewmodel/VideoViewModel.kapt_metadata" />
+    <option name="AFTER_PATH" value="app/build/tmp/kapt3/stubs/debug/com/example/practice/viewmodel/VideoViewModel.kapt_metadata" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/VideoViewModel.kapt_metadata" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$4.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/HomeScreenKt$VideoTutorials$4.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/HomeScreenKt$VideoTutorials$41.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$2$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$2$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Collections$2$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-7$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-7$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-7$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$Collections$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$ProfileScreen$3$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ProfileScreenKt$ProfileScreen$3$1$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/MyAppKt$MyApp$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/MyAppKt$MyApp$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/FavoriteScreenKt.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/FavoriteScreenKt.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/FavoriteScreenKt1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/class-attributes.tab1.keystream" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-5$1.class" />
+    <option name="AFTER_PATH" value="app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ComposableSingletons$TurorialScreenKt$lambda-5$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/ComposableSingletons$TurorialScreenKt$lambda-5$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/HomeScreenKt$VideoTutorials$lambda$11$lambda$10$$inlined$items$default$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" />
+    <option name="AFTER_PATH" value="app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_24_2025_1_30_PM_[Changes]/proto.tab.keystream1.len" />
+  </binary>
+</changelist>
