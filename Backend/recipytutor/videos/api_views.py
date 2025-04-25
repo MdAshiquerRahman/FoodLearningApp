@@ -3,6 +3,7 @@ from rest_framework.permissions import IsAuthenticated, IsAuthenticatedOrReadOnl
 from rest_framework.decorators import action, api_view, permission_classes
 from rest_framework.response import Response
 from django.shortcuts import get_object_or_404
+from django.views.decorators.csrf import csrf_exempt
 
 from .models import Video, VideoComment, VideoWatchHistory
 from .serializers import VideoSerializer, VideoCommentSerializer, VideoWatchHistorySerializer
@@ -123,6 +124,7 @@ def toggle_favorite(request, video_id):
 
 @api_view(['POST'])
 @permission_classes([IsAuthenticated])
+@csrf_exempt
 def add_to_watch_history(request, video_id):
     video = get_object_or_404(Video, id=video_id)
     history, created = VideoWatchHistory.objects.get_or_create(user=request.user, video=video)
