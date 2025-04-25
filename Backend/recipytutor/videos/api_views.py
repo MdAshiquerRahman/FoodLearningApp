@@ -121,5 +121,5 @@ def add_to_watch_history(request, video_id):
 @permission_classes([IsAuthenticated])
 def get_watch_history(request):
     history_qs = VideoWatchHistory.objects.filter(user=request.user)
-    serializer = VideoWatchHistorySerializer(history_qs, many=True)
+    serializer = VideoWatchHistorySerializer(history_qs, many=True, context={'request': request})
     return Response(serializer.data)
