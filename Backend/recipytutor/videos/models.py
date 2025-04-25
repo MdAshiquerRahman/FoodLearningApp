@@ -27,7 +27,7 @@ class VideoComment(models.Model):
     text = models.TextField()
     created_at = models.DateTimeField(auto_now_add=True)
 
-    class VideoWatchHistory(models.Model):
+class VideoWatchHistory(models.Model):
     user = models.ForeignKey(MyUser, on_delete=models.CASCADE, related_name='watch_history')
     video = models.ForeignKey(Video, on_delete=models.CASCADE)
     watched_at = models.DateTimeField(auto_now_add=True)
