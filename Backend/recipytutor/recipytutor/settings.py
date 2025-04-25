@@ -13,7 +13,7 @@ SECRET_KEY = "django-insecure-(w*j!7mh9i&(y8@#ov&g(yi7tdw%+2r(75)frc76j93g&4sz^s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['moblile-app25-2.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['foodlearningapp.onrender.com.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
