@@ -51,6 +51,17 @@ class VideoCommentViewSet(viewsets.ModelViewSet):
     def perform_create(self, serializer):
         serializer.save(user=self.request.user)
 
+    def destroy(self, request, *args, **kwargs):
+        comment = self.get_object()
+        # Only allow deletion if the requesting user is the comment owner
+        if comment.user == request.user:
+            self.perform_destroy(comment)
+            return Response(status=status.HTTP_204_NO_CONTENT)
+        return Response(
+            {"detail": "You do not have permission to delete this comment."},
+            status=status.HTTP_403_FORBIDDEN
+        )
+
 @api_view(['GET', 'POST'])
 @permission_classes([IsAuthenticated])
 def toggle_like(request, video_id):
