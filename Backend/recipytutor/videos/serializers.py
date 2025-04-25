@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Video, VideoComment
+from .models import Video, VideoComment, VideoWatchHistory
 
 class VideoSerializer(serializers.ModelSerializer):
     uploaded_by = serializers.CharField(source='uploaded_by.username', read_only=True)
@@ -25,3 +25,11 @@ class VideoCommentSerializer(serializers.ModelSerializer):
     class Meta:
         model = VideoComment
         fields = ['id', 'video', 'user', 'text', 'created_at']
+
+
+class VideoWatchHistorySerializer(serializers.ModelSerializer):
+    video = VideoSerializer(read_only=True)
+
+    class Meta:
+        model = VideoWatchHistory
+        fields = ['id', 'video', 'watched_at']

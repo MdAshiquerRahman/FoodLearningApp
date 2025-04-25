@@ -18,3 +18,10 @@ urlpatterns = [
     path('toggle-dislike/<int:video_id>/', toggle_dislike, name='toggle-dislike'),
     path('toggle-favorite/<int:video_id>/', toggle_favorite, name='toggle-favorite'),
 ]
+
+from .api_views import add_to_watch_history, get_watch_history
+
+urlpatterns += [
+    path('add-to-history/<int:video_id>/', add_to_watch_history, name='add-to-history'),
+    path('watch-history/', get_watch_history, name='watch-history'),
+]

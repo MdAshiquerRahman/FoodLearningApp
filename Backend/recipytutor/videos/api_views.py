@@ -4,8 +4,8 @@ from rest_framework.decorators import action, api_view, permission_classes
 from rest_framework.response import Response
 from django.shortcuts import get_object_or_404
 
-from .models import Video, VideoComment
-from .serializers import VideoSerializer, VideoCommentSerializer
+from .models import Video, VideoComment, VideoWatchHistory
+from .serializers import VideoSerializer, VideoCommentSerializer, VideoWatchHistorySerializer
 
 class VideoViewSet(viewsets.ModelViewSet):
     queryset = Video.objects.all()
@@ -107,3 +107,19 @@ def toggle_favorite(request, video_id):
         favorited = True
 
     return Response({'favorited': favorited})
+
+
+
+@api_view(['POST'])
+@permission_classes([IsAuthenticated])
+def add_to_watch_history(request, video_id):
+    video = get_object_or_404(Video, id=video_id)
+    history, created = VideoWatchHistory.objects.get_or_create(user=request.user, video=video)
+    return Response({'message': 'Video added to watch history'}, status=status.HTTP_200_OK)
+
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
+def get_watch_history(request):
+    history_qs = VideoWatchHistory.objects.filter(user=request.user)
+    serializer = VideoWatchHistorySerializer(history_qs, many=True)
+    return Response(serializer.data)
