@@ -173,3 +173,9 @@ ACCOUNT_EMAIL_VERIFICATION = 'none'  # Turns off mandatory emails
 ACCOUNT_EMAIL_REQUIRED = False       # Makes email optional during signup
 
 REST_AUTH_LOGOUT_METHODS = ['GET', 'POST']
+
+CSRF_TRUSTED_ORIGINS = [
+    "https://localhost:8000",
+    "http://localhost:8000",
+    "https://foodlearningapp.onrender.com"
+]
