@@ -9,57 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e367a02-04c6-4699-92dd-46d76fe57e67" name="Changes" comment="Updated">
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$3.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$4.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$5.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$3.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$4.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$5.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$1.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$2.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$3.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$4.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$5.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$5.class" beforeDir="false" />
-    </list>
+    <list default="true" id="2e367a02-04c6-4699-92dd-46d76fe57e67" name="Changes" comment="Updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +18,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=2109232200006890)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\Dell\.android\avd\Pixel_3a_XL.avd)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -289,7 +239,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745785101420</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1745785358945</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745785358945</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1745785568403</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1745785568403</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
