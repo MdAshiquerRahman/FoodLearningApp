@@ -359,12 +359,12 @@ fun PostCollectsHistoryButton(
             onClick = { selectedButton = "Posts" },
             modifier = Modifier.wrapContentWidth()
         )
-        FixedButton(
-            text = "Collects",
-            isSelected = selectedButton == "Collects",
-            onClick = { selectedButton = "Collects" },
-            modifier = Modifier.wrapContentWidth()
-        )
+//        FixedButton(
+//            text = "Collects",
+//            isSelected = selectedButton == "Collects",
+//            onClick = { selectedButton = "Collects" },
+//            modifier = Modifier.wrapContentWidth()
+//        )
         FixedButton(
             text = "History",
             isSelected = selectedButton == "History",
