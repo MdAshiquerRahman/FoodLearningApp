@@ -9,7 +9,57 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e367a02-04c6-4699-92dd-46d76fe57e67" name="Changes" comment="Updated" />
+    <list default="true" id="2e367a02-04c6-4699-92dd-46d76fe57e67" name="Changes" comment="Updated">
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/transformDebugClassesWithAsm/dirs/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Collections$lambda$55$lambda$54$$inlined$items$default$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$History$lambda$64$lambda$63$$inlined$items$default$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/example/practice/screen/ProfileScreenKt$Post$lambda$46$lambda$45$$inlined$items$default$5.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +273,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745784820991</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1745784943178</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745784943178</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1745785101420</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745785101420</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -231,5 +297,21 @@
     <MESSAGE value="Uodated" />
     <MESSAGE value="Updated" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.example.practice">
+          <value>
+            <CheckInfo lastCheckTimestamp="1745784815381" />
+          </value>
+        </entry>
+        <entry key="com.example.practice.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1745784815385" />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
