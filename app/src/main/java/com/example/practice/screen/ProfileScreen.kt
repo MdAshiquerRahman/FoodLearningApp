@@ -375,12 +375,12 @@ fun PostCollectsHistoryButton(
 
     when(selectedButton) {
         "Posts" -> Post(navController = navController, userName = userName)
-        "Collects" -> FavoriteVideoTutorials(
-            navController = navController,
-            modifier = Modifier,
-            videoViewModel = videoViewModel,
-            false
-        )
+//        "Collects" -> FavoriteVideoTutorials(
+//            navController = navController,
+//            modifier = Modifier,
+//            videoViewModel = videoViewModel,
+//            false
+//        )
         //"History" -> History(navController = navController, userName = userName)
     }
 
