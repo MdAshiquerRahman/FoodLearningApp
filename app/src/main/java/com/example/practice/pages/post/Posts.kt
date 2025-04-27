@@ -63,6 +63,7 @@ fun RecipePostsCard(
     isFavorite: Boolean
 ) {
     val context = LocalContext.current
+    val viewModel: VideoViewModel = viewModel()
 
     Column(
         modifier = Modifier
@@ -72,6 +73,7 @@ fun RecipePostsCard(
                 onClick = {
                     // Navigate to the tutorial screen
                     navController.navigate("tutorial/$title/$description/$author/$totalLikes/$totalDislikes/${Uri.encode(videoUrl)}/${Uri.encode(thumbnailUrl)}/$videoId")
+                    viewModel.addToHistory(context,videoId)
                 }
             ),
         horizontalAlignment = Alignment.CenterHorizontally

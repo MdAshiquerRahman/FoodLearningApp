@@ -33,9 +33,14 @@ interface AuthApiService {
     @POST("auth/registration/")
     suspend fun registerUser(@Body request: SignUpRequest): Response<Unit>
 
+    // verify user
+    @GET("auth/user/")
+    suspend fun verifyToken(
+        @Header("Authorization") token: String
+    ): Response<ProfileResponse>
+
     @POST("auth/login/")
     suspend fun login(@Body request: LoginRequest): Response<LoginResponse>
-
 
 
     @GET("api/videos/upload-videos/")
@@ -63,6 +68,13 @@ interface AuthApiService {
     suspend fun likeVideo(
         @Header("Authorization") token: String,  // Fix the variable name type
         @Path("video-id") videoId: Int  // Add Path annotation
+    ): Response<Unit>
+
+    // watch-history
+    @POST("api/videos/add-to-history/{video-id}/")
+    suspend fun addToHistory(
+        @Header("Authorization") token: String,
+        @Path("video-id") videoId: Int
     ): Response<Unit>
 
     // Dislike video

@@ -103,5 +103,8 @@ dependencies {
 
     implementation(libs.androidx.datastore.preferences)
 
+    // coroutineScope
+    implementation (libs.kotlinx.coroutines.android)
+
 
 }

@@ -3250,6 +3250,8 @@ int drawable ic_mtrl_chip_checked_black 0x7f08010c
 int drawable ic_mtrl_chip_checked_circle 0x7f08010d
 int drawable ic_mtrl_chip_close_circle 0x7f08010e
 int drawable ic_search_black_24 0x7f08010f
+int drawable ic_visibility_off 0x7f080164
+int drawable ic_visibility_on 0x7f080165
 int drawable icon 0x7f080110
 int drawable icon_background 0x7f080111
 int drawable m3_appbar_background 0x7f080112

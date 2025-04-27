@@ -4,6 +4,7 @@ package com.example.practice.viewmodel
 import android.content.Context
 import android.net.Uri
 import android.util.Log
+import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.practice.api.AuthRetrofitInstance
@@ -44,6 +45,9 @@ class VideoViewModel : ViewModel() {
 
     private val _dislikeStatus = MutableStateFlow<DislikeStatusResponse?>(null)
     val dislikeStatus: StateFlow<DislikeStatusResponse?> = _dislikeStatus
+
+    val addToHistoryState = mutableStateOf<Result<String>>(Result.success(""))
+
 
     val authViewModel: AuthViewModel = AuthViewModel()
 
@@ -192,6 +196,26 @@ class VideoViewModel : ViewModel() {
             }
         }
     }
+
+    // add to watch history
+    fun addToHistory(context: Context, videoId: Int) {
+        viewModelScope.launch {
+            try {
+                val response = AuthRetrofitInstance.api.addToHistory(
+                    token = "Token ${authViewModel.getToken(context).toString()}",
+                    videoId
+                )
+                if (response.isSuccessful) {
+                    addToHistoryState.value = Result.success("Video added to history successfully!")
+                } else {
+                    addToHistoryState.value = Result.failure(Exception("Failed to add video to history."))
+                }
+            } catch (e: Exception) {
+                addToHistoryState.value = Result.failure(e)
+            }
+        }
+    }
+
 
     fun dislikeVideo(videoId: Int, token: String, onSuccess: () -> Unit) {
         viewModelScope.launch(Dispatchers.IO) {

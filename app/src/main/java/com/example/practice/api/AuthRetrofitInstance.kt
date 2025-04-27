@@ -15,8 +15,6 @@ object AuthRetrofitInstance {
         setLevel(HttpLoggingInterceptor.Level.BODY)
         level = HttpLoggingInterceptor.Level.HEADERS // Logs only headers
     }
-
-
     // OkHttpClient with logging
     private val client = OkHttpClient.Builder()
         .addInterceptor(logging)

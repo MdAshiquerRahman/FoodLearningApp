@@ -22,6 +22,8 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_like
 drawable ic_movie
+drawable ic_visibility_off
+drawable ic_visibility_on
 drawable icon
 drawable pizza
 drawable post

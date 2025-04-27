@@ -210,6 +210,7 @@ fun CommentSection(
     navController: NavController,
     videoViewModel: VideoViewModel,
     title: String,
+    author: String,
     description: String,
     videoFile: String,
     thamnail: String,
@@ -229,6 +230,8 @@ fun CommentSection(
 
     var showDialog by remember { mutableStateOf(false) }
     var isFavorite by remember { mutableStateOf(false) }
+
+    var showCommentDialog by remember { mutableStateOf(false) }
 
     LaunchedEffect(Unit) {
         videoViewModel.fetchFavoriteVideos(token.toString())
@@ -263,9 +266,24 @@ fun CommentSection(
                 FixedButton(
                     text = "Comments",
                     isSelected = true,
-                    onClick = { showDialog = true },
+                    onClick = { showCommentDialog = true },
                     modifier = Modifier.wrapContentWidth()
                 )
+
+                if (showCommentDialog) {
+                    CommentDialog(
+                        onDismissRequest = { showCommentDialog = false },
+                        onConfirmRequest = { comment ->
+                            showCommentDialog = false
+                            // Perform the postComment action here
+                            viewModel.postComment(
+                                token = token.toString(),
+                                videoId = recipeId,
+                                text = comment // Use the input from the dialog
+                            )
+                        }
+                    )
+                }
 
                 Spacer(modifier = Modifier.width(10.dp))
 
@@ -287,13 +305,23 @@ fun CommentSection(
 
                 Spacer(modifier = Modifier.width(20.dp)) // Space between icons
 
+                val username = viewModel.authViewModel.getUsername(context)
+                var isAuthor by remember { mutableStateOf(false) }
+                if (author == username){
+                    isAuthor = true
+                } else {
+                    isAuthor = false
+                }
+
                 Icon(
                     imageVector = Icons.Default.Clear,
                     contentDescription = null,
-                    modifier = Modifier.clickable {
+                    modifier = Modifier.clickable(
+                        enabled = isAuthor
+                    ) {
                         showDialog = true
                     },
-                    tint = Color.Red
+                    tint = if (isAuthor) Color.Red else Color.Gray
                 )
 
                 LikeDislikeButtons(
@@ -603,6 +631,7 @@ fun TutorialScreen(
             navController,
             videoViewModel,
             recipeTitle,
+            author,
             recipeDescription,
             recipeUrl,
             recipeThumbnail,

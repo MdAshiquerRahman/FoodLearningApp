@@ -1,170 +1,178 @@
 [
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_ic_camera.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/ic_camera.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.practice.app-main-85:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_search.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/search.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable-mdpi_ic_image.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable-mdpi\\ic_image.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_post.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/post.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable-mdpi_pizza.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable-mdpi\\pizza.jpg"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_drawer.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\drawer.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_ic_heart.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/ic_heart.xml"
+        "merged": "com.example.practice.app-debug-83:/drawable_ic_visibility_on.xml.flat",
+        "source": "com.example.practice.app-main-85:/drawable/ic_visibility_on.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_drawer.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/drawer.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable-mdpi_ic_movie.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable-mdpi\\ic_movie.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_home.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/home.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable-mdpi_icon.png.flat",
-        "source": "com.example.practice.app-main-85:/drawable-mdpi/icon.png"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable-mdpi_ic_like.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable-mdpi/ic_like.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_setting.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\setting.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_profile.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/profile.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\raw_heeriye.mp4.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\raw\\heeriye.mp4"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable-mdpi_ic_movie.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable-mdpi/ic_movie.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_setting.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/setting.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\font_source_code_pro_regular.ttf.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\font\\source_code_pro_regular.ttf"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_ic_heart.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\ic_heart.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable-mdpi_ic_like.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable-mdpi\\ic_like.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\search.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_post.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\post.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable-mdpi_ic_full_screen.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable-mdpi/ic_full_screen.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable-mdpi_ic_full_screen.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable-mdpi\\ic_full_screen.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\home.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_profile_settings.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/profile_settings.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable-mdpi_ic_dislike.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable-mdpi\\ic_dislike.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_heart_reatc.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\heart_reatc.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_chat.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\chat.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable-mdpi\\icon.png"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/xml_backup_rules.xml.flat",
-        "source": "com.example.practice.app-main-85:/xml/backup_rules.xml"
+        "merged": "com.example.practice.app-debug-83:/drawable_ic_visibility_off.xml.flat",
+        "source": "com.example.practice.app-main-85:/drawable/ic_visibility_off.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_heart_reatc.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/heart_reatc.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable-mdpi_ic_dislike.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable-mdpi/ic_dislike.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\ic_camera.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_chat.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/chat.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_profile_settings.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\profile_settings.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/font_source_code_pro_regular.ttf.flat",
-        "source": "com.example.practice.app-main-85:/font/source_code_pro_regular.ttf"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\profile.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable-mdpi_ic_image.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable-mdpi/ic_image.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable-mdpi_pizza.jpg.flat",
-        "source": "com.example.practice.app-main-85:/drawable-mdpi/pizza.jpg"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/drawable_favorite.xml.flat",
-        "source": "com.example.practice.app-main-85:/drawable/favorite.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/raw_heeriye.mp4.flat",
-        "source": "com.example.practice.app-main-85:/raw/heeriye.mp4"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.practice.app-debug-83:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice.app-main-85:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\drawable_favorite.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\drawable\\favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-debug-83:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.11.1\\com.example.practice.app-main-85:\\mipmap-mdpi\\ic_launcher_round.webp"
     }
 ]
