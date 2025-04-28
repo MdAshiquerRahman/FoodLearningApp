@@ -21,6 +21,7 @@ public final class ComposeElementsKt {
     java.lang.String videoShoots) {
     }
     
+    @androidx.annotation.RequiresApi(value = android.os.Build.VERSION_CODES.O)
     @androidx.compose.runtime.Composable()
     public static final void UserCommentsCard(@org.jetbrains.annotations.NotNull()
     java.lang.String profileUrl, @org.jetbrains.annotations.NotNull()

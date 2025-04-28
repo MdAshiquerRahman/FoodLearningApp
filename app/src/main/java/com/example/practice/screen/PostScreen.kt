@@ -229,7 +229,7 @@ fun DescriptionField(context: Context, description: String, onValueChange: (Stri
     OutlinedTextField(
         value = description,
         onValueChange = {
-            if (it.length <= 300) {
+            if (it.length <= 3000) {
                 onValueChange(it)
                 isError = it.lines().size > 3
             } else {

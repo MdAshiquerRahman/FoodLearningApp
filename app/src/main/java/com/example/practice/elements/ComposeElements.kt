@@ -267,6 +267,7 @@ fun FixedButton(
     }
 
 
+    @RequiresApi(Build.VERSION_CODES.O)
     @Composable
     fun UserCommentsCard(
         profileUrl: String,
