@@ -4,6 +4,7 @@ package com.example.practice.api
 import com.example.practice.api.dataclass.comment.CommentRequest
 import com.example.practice.api.dataclass.comment.CommentResponse
 import com.example.practice.api.dataclass.comment.Comments
+import com.example.practice.api.dataclass.history.HistoryItem
 import com.example.practice.api.dataclass.likedislike.DislikeStatusResponse
 import com.example.practice.api.dataclass.likedislike.LikeStatusResponse
 import com.example.practice.api.dataclass.login.LoginRequest
@@ -76,6 +77,12 @@ interface AuthApiService {
         @Header("Authorization") token: String,
         @Path("video-id") videoId: Int
     ): Response<Unit>
+
+    @GET("api/videos/watch-history/")
+    suspend fun getWatchHistory(
+        @Header("Authorization") token: String
+    ): Response<List<HistoryItem>>
+
 
     // Dislike video
     @POST("api/videos/toggle-dislike/{video-id}/")
