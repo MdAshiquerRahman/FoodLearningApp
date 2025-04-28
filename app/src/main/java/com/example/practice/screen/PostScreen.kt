@@ -231,7 +231,7 @@ fun DescriptionField(context: Context, description: String, onValueChange: (Stri
         onValueChange = {
             if (it.length <= 3000) {
                 onValueChange(it)
-                isError = it.lines().size > 3
+                isError = it.lines().size > 30
             } else {
                 Toast.makeText(context, "Description cannot exceed 300 characters", Toast.LENGTH_SHORT).show()
                 isError = true
